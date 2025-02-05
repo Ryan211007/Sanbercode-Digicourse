@@ -31,7 +31,7 @@ function greetings($nama) {
 // Hapus komentar untuk menjalankan code!
 greetings("Bagas");
 greetings("Wahyu");
-greetings("nama peserta");
+greetings("Ryan Theola Yowue");
 
 echo "<br>";
 
@@ -63,7 +63,7 @@ function reverseString($string) {
 }
 
 // Hapus komentar di bawah ini untuk jalankan Code
-reverseString("nama peserta");
+reverseString("Ryan Theola Youwe");
 reverseString("Sanbercode");
 reverseString("We Are Sanbers Developers");
 echo "<br>";
