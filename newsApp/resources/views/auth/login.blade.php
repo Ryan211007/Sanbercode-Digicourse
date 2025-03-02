@@ -22,7 +22,7 @@
         <!-- /.login-logo -->
         <div class="card card-outline card-primary">
             <div class="card-header text-center">
-                <a href="#" class="h1"><b>Beritaku</b>APP</a>
+                <a href="#" class="h1"><b>FilmAsik</b>APP</a>
             </div>
             <div class="card-body">
                 <form action="/login" method="post">
